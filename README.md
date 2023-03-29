@@ -18,3 +18,4 @@
 #### Show the number of people of each proefession for separated by gender.
 ## Summary:
 ### The idea of this project was to be able to analyze the information given and to try and create a model that will help the owners. One I had while trying to achieve that was the limited information. I would have liked a larger data set with some columns that could have been factors such as the the type of products that have been bought. Overall, I was able to use the data for my benefit and create a model. I believe having a larger data set would have gave me a better result for my model. The highest accuracy score was not the greatest and with more time or a different data set I may have been able to do better.
+[link to dashboard](https://public.tableau.com/app/profile/kristina.andrews/viz/CustomerSpendingAnalysisDemoDay/SpendingScoreComparisonbyGender)
