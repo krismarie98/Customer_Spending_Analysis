@@ -9,4 +9,7 @@
 ![image](https://user-images.githubusercontent.com/112527054/228593407-0468da67-f83f-4c1c-a398-3cc5b6de9fb7.png)
 ### Decision Tree Model: I also did this model to see if I could get better results but the changes were little at 57% accuracy.
 ![image](https://user-images.githubusercontent.com/112527054/228594420-be895c3f-1d7d-42fb-a757-2f618ee90538.png)
+### Graphs: Some graphs from Tableau
+
 ## Summary:
+### The idea of this project was to be able to analyze the information given and to try and create a model that will help the owners. One I had while trying to achieve that was the limited information. I would have liked a larger data set with some columns that could have been factors such as the the type of products that have been bought. Overall, I was able to use the data for my benefit and create a model. I believe having a larger data set would have gave me a better result for my model. The highest accuracy score was not the greatest and with more time or a different data set I may have been able to do better.
