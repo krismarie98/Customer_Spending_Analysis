@@ -10,6 +10,11 @@
 ### Decision Tree Model: I also did this model to see if I could get better results but the changes were little at 57% accuracy.
 ![image](https://user-images.githubusercontent.com/112527054/228594420-be895c3f-1d7d-42fb-a757-2f618ee90538.png)
 ### Graphs: Some graphs from Tableau
-
+![image](https://user-images.githubusercontent.com/112527054/228609822-fa0155f4-b1ba-4499-96a0-2d358bc90036.png)
+#### Average Income for family size
+![image](https://user-images.githubusercontent.com/112527054/228610495-62703953-48bb-4e88-9fa4-9630e0a043ea.png)
+#### Each profession's avg. income, work experience, and spending score
+![image](https://user-images.githubusercontent.com/112527054/228610995-240957c1-04f7-46e1-b887-dcefcc25e65b.png)
+#### Show the number of people of each proefession for separated by gender.
 ## Summary:
 ### The idea of this project was to be able to analyze the information given and to try and create a model that will help the owners. One I had while trying to achieve that was the limited information. I would have liked a larger data set with some columns that could have been factors such as the the type of products that have been bought. Overall, I was able to use the data for my benefit and create a model. I believe having a larger data set would have gave me a better result for my model. The highest accuracy score was not the greatest and with more time or a different data set I may have been able to do better.
